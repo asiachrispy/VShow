@@ -75,5 +75,8 @@ make short video
 
 官网：https://www.mishuoapp.com
 
+## 参考
+https://www.jianshu.com/p/96be7ceebc4c
+
 ## CHANGELOG
 2018-11-27 chris newadd
